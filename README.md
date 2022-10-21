@@ -14,8 +14,6 @@ The purpose of this analysis is to compare the temperature data from June with D
 
 ![June temperature data](/images/june.png) ![December temperature data](/images/december.png)
 
-Three points. Use images as support where needed.
-
 ## Summary
 
 Across the years analysed, June has a higher minimum, maximum, and average temperature than December does. There are enough data points in both June and December to validate the analysis as reliable.
